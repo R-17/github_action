@@ -1,6 +1,6 @@
 {
   "scripts": {
-  "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+  "test": "echo \"No test specified\""
   },
   "devDependencies": {
     "lint": "^1.1.2"
